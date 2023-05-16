@@ -1,4 +1,4 @@
-# Linux Network
+# Linux Local Network
 
 
 Linux networks configuration on virtual machines.
