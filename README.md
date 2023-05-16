@@ -9,14 +9,14 @@ The russian version of the task can be found in the repository.
 
 1. [Chapter I](#chapter-i)
 2. [Chapter II](#chapter-ii) \
-   2.1. [ipcalc tool](#ipcalc-tool) \
-   2.2. [Static routing between two machines](#part-2-static-routing-between-two-machines) \
-   2.3. [iperf3 utility](#part-3-iperf3-utility) \
-   2.4. [Network firewall](#part-4-network-firewall) \
-   2.5. [Static network routing](#part-5-static-network-routing) \
-   2.6. [Dynamic IP configuration using DHCP](#part-6-dynamic-ip-configuration-using-dhcp) \
-   2.7. [NAT](#part-7-nat) \
-   2.8. [Introduction to SSH Tunnels](#part-8-introduction-to-ssh-tunnels)
+   2.1. [Part 1. ipcalc tool](#ipcalc-tool) \
+   2.2. [Part 2. Static routing between two machines](#part-2-static-routing-between-two-machines) \
+   2.3. [Part 3. iperf3 utility](#part-3-iperf3-utility) \
+   2.4. [Part 4. Network firewall](#part-4-network-firewall) \
+   2.5. [Part 5. Static network routing](#part-5-static-network-routing) \
+   2.6. [Part 6. Dynamic IP configuration using DHCP](#part-6-dynamic-ip-configuration-using-dhcp) \
+   2.7. [Part 7. NAT](#part-7-nat) \
+   2.8. [Part 8. Introduction to SSH Tunnels](#part-8-introduction-to-ssh-tunnels)
 
 ## Chapter I
 
